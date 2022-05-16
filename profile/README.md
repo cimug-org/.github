@@ -4,6 +4,7 @@
 
 The **CIM Users Group (CIMug)** ([https://cimug.ucaiug.org/](https://cimug.ucaiug.org/)) is dedicated to managing and communicating issues concerning the TC57 IEC 61970 and 61968 standards and to serving as the primary means for developing consensus and consistency across the industry.
 
+
 ## About CIM Users Group
 
 The CIM Users Group was formed in 2005, as a subgroup of the UCA International Users Group, to provide a forum in which users, consultants, and suppliers could cooperate and leverage the IEC CIM International Standards to advance interoperability across the utility enterprise. The primary purpose is to share technology basics, best practices and technical resources while Advancing Interoperability for the Utility Enterprise.
@@ -29,6 +30,7 @@ The CIM Users Group is focused on helping its members obtain the benefits of ada
   - Smart grid messaging to premises systems
 - **Interoperability** and **Conformance** testing requirements and procedures
 
+
 ### CIM User Group Goals
 
 - Provide liaison with other standards groups and assess the impact of other standards on the form, scope and content of the CIM
@@ -38,6 +40,7 @@ The CIM Users Group is focused on helping its members obtain the benefits of ada
 - Provide a single point of contact for CIM Model Management and issue resolution.
 - Provide awareness of CIM products and implementations
 - Provide a Help Desk for members to obtain timely and accurate answers
+
 
 ## Contact
 
