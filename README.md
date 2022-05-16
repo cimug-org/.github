@@ -1,0 +1,2 @@
+# .github
+CIM Users Group
