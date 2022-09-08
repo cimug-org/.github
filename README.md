@@ -1,4 +1,4 @@
-## CIM Users Group
+## CIM Users Group 2
 
 ### Our Mission
 
