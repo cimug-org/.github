@@ -29,4 +29,4 @@ The CIM companion standards provide extensions and specifications that, when use
 
 ### Contact
 
-For more information about the CIM Users Group please contact us at [contact@cimug.org](mailto:contact@cimug.org).
+For more information about the CIM Users Group please contact us at [github.admin@ucaiug.org](mailto:github.admin@ucaiug.org).
