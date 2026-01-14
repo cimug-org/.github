@@ -4,7 +4,7 @@
 
 ## The UCA Users Groups Open Source Initiative
 
-This UCA Users Group GitHub Organization serves as the official GitHub site for open source projects sponsored by the UCA and its associated Users Groups. This site serves as the companion site to the following UCA Users Groups communities:
+This UCA Users Group GitHub Organization serves as the official GitHub site for open source projects sponsored by the UCA and its associated Users Groups. This site serves as the companion site to the following UCA Users Group communities:
 
 - [UCA CIM Users Group](https://cimug.org/)
 - [UCA 61850 Users Group](https://61850ug.org/)
