@@ -5,7 +5,7 @@ This UCA Users Group GitHub Organization serves as the official GitHub site for 
 - CIM Users Group [https://cimug.org](https://cimug.org/)
 - 61850 Users Group [https://61850ug.org](https://61850ug.org/)
   
-The **UCA Users Groups Open Source Initiative** is dedicated to providing open source projects and tooling that benefit the CIM and 61850 communities with commercially friendly licenses. Our gaol is to:
+The **UCA Users Groups Open Source Initiative** is dedicated to providing open source projects and tooling that benefit the CIM and 61850 communities with commercially friendly licenses. Our goal is to:
 
 - Provide awareness of CIM and61850 open source projects and tooling
 - Promote open source projects that help advance CIM and CIM related standards
