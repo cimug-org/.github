@@ -1,3 +1,7 @@
+<img align="left" src="./readme-images/CIMug_logo_horiz.svg" alt="CIMug Logo" width="20%"/>    <img align="right" src="./readme-images/61850_logo_horiz.svg" alt="61850 Logo" width="25%"/>
+
+<br><br><br>
+
 ## The UCA Users Groups Open Source Initiative
 
 This UCA Users Group GitHub Organization serves as the official GitHub site for open source projects sponsored by the UCA and its associated Users Groups. This site serves as the companion site to the following UCA Users Group communities:
