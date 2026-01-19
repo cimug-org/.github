@@ -26,7 +26,7 @@ The **UCA 61850 Users Group** ([https://61850ug.org](https://61850ug.org/)) is d
 
 ### CIM Users Group
 
-The **CIM Users Group (CIMug)** ([https://cimug.ucaiug.org](https://cimug.ucaiug.org/)) is dedicated to managing and communicating issues concerning the TC57 IEC 61970 and 61968 standards and to serving as the primary means for developing consensus and consistency across the industry. It was formed in 2005, as a subgroup of the UCA International Users Group, to provide a forum in which users, consultants, and suppliers could cooperate and leverage the IEC CIM International Standards to advance interoperability across the utility enterprise. The primary purpose is to share technology basics, best practices and technical resources while Advancing Interoperability for the Utility Enterprise.
+The **UCA CIM Users Group (CIMug)** ([https://cimug.ucaiug.org](https://cimug.ucaiug.org/)) is dedicated to managing and communicating issues concerning the TC57 IEC 61970 and 61968 standards and to serving as the primary means for developing consensus and consistency across the industry. It was formed in 2005, as a subgroup of the UCA International Users Group, to provide a forum in which users, consultants, and suppliers could cooperate and leverage the IEC CIM International Standards to advance interoperability across the utility enterprise. The primary purpose is to share technology basics, best practices and technical resources while Advancing Interoperability for the Utility Enterprise.
 
 #### What is the CIM and why is it needed?​
 
