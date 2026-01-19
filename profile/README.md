@@ -22,11 +22,11 @@ To inquire about the UCA CIM and 61850 Users Groups Open Source Initiative or to
 
 ### 61850 Users Group
 
-The UCA 61850 Users Group is dedicated to fostering collaboration and knowledge sharing among professionals involved in implementing, advancing the adoption, and testing of 61850 and its associated standards. The open source projects hosted and maintained here are made available for the benefit of the broader 61850 user community.
+The **UCA 61850 Users Group** ([https://61850ug.org](https://61850ug.org/)) is dedicated to fostering collaboration and knowledge sharing among professionals involved in implementing, advancing the adoption, and testing of 61850 and its associated standards. The open source projects hosted and maintained here are made available for the benefit of the broader 61850 user community.
 
 ### CIM Users Group
 
-The **CIM Users Group (CIMug)** ([https://cimug.ucaiug.org/](https://cimug.ucaiug.org/)) is dedicated to managing and communicating issues concerning the TC57 IEC 61970 and 61968 standards and to serving as the primary means for developing consensus and consistency across the industry. It was formed in 2005, as a subgroup of the UCA International Users Group, to provide a forum in which users, consultants, and suppliers could cooperate and leverage the IEC CIM International Standards to advance interoperability across the utility enterprise. The primary purpose is to share technology basics, best practices and technical resources while Advancing Interoperability for the Utility Enterprise.
+The **CIM Users Group (CIMug)** ([https://cimug.ucaiug.org](https://cimug.ucaiug.org/)) is dedicated to managing and communicating issues concerning the TC57 IEC 61970 and 61968 standards and to serving as the primary means for developing consensus and consistency across the industry. It was formed in 2005, as a subgroup of the UCA International Users Group, to provide a forum in which users, consultants, and suppliers could cooperate and leverage the IEC CIM International Standards to advance interoperability across the utility enterprise. The primary purpose is to share technology basics, best practices and technical resources while Advancing Interoperability for the Utility Enterprise.
 
 #### What is the CIM and why is it needed?​
 
